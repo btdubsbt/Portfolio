@@ -1,0 +1,14 @@
+body{
+background: url('3.jpg');
+}
+#centerimg{
+	margin-left:auto;
+	margin-right: auto;
+	text-align:center;
+}
+.a {
+	color: #c81e1c
+}
+h1 {
+	color:#1c3ec8
+}
